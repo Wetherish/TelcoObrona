@@ -16,6 +16,11 @@ const TelecommunicationNotesPage: React.FC = () => {
             <Link href="/notes/telecom/Filtry">Filtry</Link>
           </li>
         </div>
+        <div className="hover:text-blue-500 hover:underline">
+          <li>
+            <Link href="/notes/telecom/Anteny">Anteny</Link>
+          </li>
+        </div>
       </ul>
     </div>
   );
