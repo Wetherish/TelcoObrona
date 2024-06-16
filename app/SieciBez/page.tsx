@@ -4,16 +4,12 @@ import { useState } from "react";
 
 const flashcards = [
   {
-    question: "Podac zalozenia dla modelu czwartej potegi:",
-    answer: "Idealnie plaska, nieskonczenie rozlegla, odbijajaca, przewodzaca powierzchnia",
-  },
-  {
       "question": "Która organizacja w Europie zajmuje się harmonizacją wykorzystania widma radiowego, orbit satelitarnych i zasobów numeracyjnych? (Slajd: 461)",
       "answer": "CEPT"
   },
   {
       "question": "Podstawowymi parametrami opisującymi propagację fal EM są odpowiedź impulsowa kanału i tłumienie swobodnej przestrzeni",
-      "answer": ""
+      "answer": "odpowiedź impulsowa kanału i tłumienie swobodnej przestrzeni"
   },
   {
       "question": "Zastosowanie której techniki umożliwia realizację przestrzennego zwielokrotnienia dostępu SDMA? (Slajd: 318)",
@@ -149,7 +145,7 @@ const flashcards = [
   },
   {
       "question": "Natężenie ruchu radiowego w pewnym okresie czasu to: Stosunek łącznego czasu połączeń głosowych i czasu transmisji danych w określonym okresie czasu obserwacji",
-      "answer": ""
+      "answer": "Stosunek łącznego czasu połączeń głosowych i czasu transmisji danych w określonym okresie obserwacji"
   },
   {
       "question": "Jaką maksymalną szerokość kanałów radiowych zdefiniowano dla systemów IEE802.16e oraz systemów IEE802.16-2004?",
@@ -173,7 +169,7 @@ const flashcards = [
   },
   {
       "question": "Współczynnik ochronny uwzględniony przy planowaniu sieci radiowej sieci (komórkowej) to minimalna wartość: stosunku mocy sygnału użytecznego do zakłucającego zapewniająca dostateczną jakość odbioru",
-      "answer": ""
+      "answer": "stosunku mocy sygnału użytecznego do zakłucającego zapewniająca dostatecznąjakość odbioru"
   },
   {
       "question": "Przy której konfiguracji uzyskamy najlepsza efektywność techniki odbioru zbiorczego przestrzennego (slajd: 349)",
@@ -181,7 +177,7 @@ const flashcards = [
   },
   {
       "question": "Komunikacja radiowa na obszarze każdej komórki w sieci komórkowej będzie zapewniona, gdy: (KOMISYJNIE) poziom mocy odbieranego sygnału radiowego będzie większy od czułości odbiornika oraz stosunek mocy tego sygnału do mocy szumów i zakłóceń będzie większy, od granicznej wymaganej wartości.",
-      "answer": ""
+      "answer": "poziom mocy odbieranego sygnału radiowego będzie większy od czułości odbiornika oraz stosunek mocy tego sygnału do mocy szumów i zakłóceń będziewiększy, od granicznej wymaganej wartości."
   },
   {
       "question": "Co znacząco zwiększyło odporność OFDM na efekty propagacji wielodrogowej i wąskopasmowej zakłócenia występujące w kanale radiowym w stosunku do innych technik?",
@@ -205,15 +201,15 @@ const flashcards = [
   },
   {
       "question": "Z jaką szybkością nadawane są Preambuła i nagłówek PLCP w WLAN 802.11 Z najmniejszą dostępną w systemie, aby zapewnić maksymalny zasięg rozgłaszania informacji",
-      "answer": ""
+      "answer": "Z najmniejszą dostępną w systemie, aby zapewnić maksymalny zasięgrozgłaszania informacji"
   },
   {
       "question": "W którym standardzie WLAN zastosowano technikę Mu-MIMO?",
       "answer": "IEEE 802.11ac"
   },
   {
-      "question": "Pojęcie NLOS oznacza: brak bezpośredniej widoczności",
-      "answer": ""
+      "question": "Pojęcie NLOS oznacza:i",
+      "answer": " brak bezpośredniej widocznośc"
   },
   {
     "question": "Jakie techniki stosuje się w systemach radiokomunikacyjnych w celu ograniczenia wpływu zaników płaskich sygnałów radiowych (KOMISYJNIE)?",
