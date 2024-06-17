@@ -8,7 +8,7 @@ const flashcards = [
       "answer": "CEPT"
   },
   {
-      "question": "Podstawowymi parametrami opisującymi propagację fal EM są odpowiedź impulsowa kanału i tłumienie swobodnej przestrzeni",
+      "question": "Podstawowymi parametrami opisującymi propagację fal EM są:",
       "answer": "odpowiedź impulsowa kanału i tłumienie swobodnej przestrzeni"
   },
   {
