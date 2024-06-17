@@ -222,8 +222,8 @@ const Page: React.FC = () => {
           Pasma częstotliwości - kanały “w górę” (MS BTS) - 1710 - 1785 MHz -
           kanały “w dół” (BTS MS) - 1805 - 1880 MHz Częstotliwości nośne -
           kanały "w górę": fi= 1710 MHz+(0,2 MHz)·(i-511) - kanały "w dół": fi=
-          1805 MHz+(0,2 MHz)·(i-511) i jest numerem kanału (ARCFN), 512 &lt; i
-          &gt; 885 Odstęp dupleksowy: 95 MHz 374 kanały radiowe + 2*100
+          1805 MHz+(0,2 MHz)·(i-511) i jest numerem kanału (ARCFN), wiecej niz 512 i
+          mniej niz 885 Odstęp dupleksowy: 95 MHz 374 kanały radiowe + 2*100
           kHz(pasmo ochronne)
         </p>
       </section>
